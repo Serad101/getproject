@@ -1,0 +1,49 @@
+<!DOCTYPE >
+<html>
+
+<head>
+<title> Serad Barazar Mabayan</title>
+</head>
+<body>
+
+<header>
+<h1> Serad Mabayan</h1>
+<nav>
+<a href = "/html/">About</a>
+<a href = "/css/">Project</a>
+<a href = "/js/">Blogs</a>
+<a href = "/phyton/">Contact</a>
+</nav>
+</header>
+
+<img src = "mynewpic.png" alt = "picture of Serad Mabayan" height = "150" width = "200">
+
+
+<p>Hello, I am <strong>Serad B. Mabayan</strong>, an inspiring <strong>web developers</strong> <em>learning web development</em>. I'd like to learn coding, programming and design. I am glad to meet here.I am a public school teacher and I am eager to learn more about ICT for my students in teaching them my senior High School class</p>
+
+<h>Please contact me if you like.</h>
+
+
+<h2>Here are my sample project:</h2>
+
+<ol>
+<li>Project 1 - My Portfolio
+<li>Project 2 - My Business Website
+</ol>
+
+<h3>My Skills:</h3>
+
+<p>HTML, CSS, JavaScript, Bootstrap, Angular, vuejs, React Js, Phyton, Django.</p>
+<h4>Pleaase Contact me:</h4>
+<p>mabayanserad@learncomputertoday@gmail.com</p>
+<p>mserad@gmail.com</p>
+
+<footer>
+<p> © Copyright <a href="https://learncomputertoday.net" target = "_blank">Serad Mabayan </a>2024</p>
+<p><a href = "https://learncomputertoday.net" target = "_blank"> Website</a></p>
+
+</footer>
+
+</body>
+
+
